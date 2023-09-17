@@ -1,4 +1,4 @@
-package me.sejin.event;
+package me.sejin.events;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

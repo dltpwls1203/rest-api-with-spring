@@ -1,4 +1,4 @@
-package me.sejin.event;
+package me.sejin.events;
 
 import org.junit.Test;
 
